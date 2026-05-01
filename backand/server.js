@@ -26,7 +26,7 @@ const products = [
     fabric: "Luxury Chiffon", 
     category: "clothing",
     colors: [
-    { name: "b1", code: "#111b648a", image:"/aj/img/ab1.jpeg"},
+    { name: "b1", code: "#111b648a", image:"/img/ab1.jpeg"},
     { name: "b2", code: "#ceb396", image: "/aj/img/ab2.jpeg"}
     ]
   },
